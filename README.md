@@ -30,3 +30,7 @@ I printed the accuracy score along with the most informative features.
 I cound find salary and dates. I couldnt find an effective way to extract the names of employer and employee using NER.
 
 I extracted salary and dates using regex.
+
+## Improvements
+
+Improvements can be made by chunking Named Entities and Lametization.
